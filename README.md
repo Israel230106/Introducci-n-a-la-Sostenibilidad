@@ -1,5 +1,5 @@
 # Introducci-n-a-la-Sostenibilidad
-Trabajo elaborado por el alumno
+# Trabajo elaborado por el alumno
 
 Crea un fichero llamado sostenibilidad.md.
 Incluye dentro:
